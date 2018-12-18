@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  exam7.1
+//  6.1
 //
-//  Created by student on 2018/10/24.
-//  Copyright © 2018年 SICNU. All rights reserved.
+//  Created by liyuting on 2018/12/5.
+//  Copyright © 2018年 liyuting. All rights reserved.
 //
 
 import UIKit
